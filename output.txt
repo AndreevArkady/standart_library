@@ -1,0 +1,3 @@
+The most frequent word "asd" meets 5 times 
+most common letter: "a" meets 21 times 
+average occurrence of a letter "a" in a word = 1.500
